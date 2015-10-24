@@ -1,0 +1,38 @@
+* {
+    -webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+			box-sizing: border-box;
+}
+
+h1 {
+    color: #000;
+    font-family: "Arial Black", sans-serif;
+    text-align: center;
+    
+}
+
+#byline {
+    text-align: center;
+}
+#first {
+    text-align: center;
+}
+#second {
+    text-align: center;
+}
+body {
+    background: #FFFCD4; 
+    color: #000;
+    font-family: Georgia, serif; ;
+}
+
+article {
+    text-align: left;
+    width: 800px; 
+    padding: 20px; 
+    margin: auto;
+    color:#000;
+    background-color: #DEFFF9;
+}
+
+}
